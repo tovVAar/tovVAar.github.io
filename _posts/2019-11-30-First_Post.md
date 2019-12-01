@@ -4,4 +4,4 @@ title: "Primer post de un intento de blog"
 date: 2019-11-30
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+Este blog fue creado ayudandome de este [tutorial](http://jmcglone.com/guides/github-pages/), el cual recomiendo. GitHub me parece buen lugar para hostear mi blog, dado que las alternativas actuales no em terminan de convencer, ademas de que no tienen el nivel de ñoñismo necesario a lo que esta plataforma ofrece.
