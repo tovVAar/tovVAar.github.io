@@ -4,8 +4,10 @@ title: Erick Tovar, developer and pizza maker
 ---
 <script type='text/javascript'>
 	var greetings = new Array("Hola, soy Erick", "Hello, I am Tovar", "いらっしゃい!, Erickです");
-
-	document.getElementById('greeting').innerHTML = greetings[Math.floor(Math.random() * greetings.length)];
+	(function(){
+		document.getElementById('greeting').innerHTML = greetings[Math.floor(Math.random() * greetings.length)];
+		setTimeout(arguments.callee, 50);
+	})();
 </script>
 
 <main>
