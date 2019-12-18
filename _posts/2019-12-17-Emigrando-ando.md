@@ -14,7 +14,7 @@ De momento ya he pasado por bastantes casas y cuartos, en distintas ciudades, qu
 
 A veces me parece ya tan innecesario o irrelevante hacer amistades por que sé que eventualmente los dejaré de ver y se olvidarán de mí, y yo tendré mi mente en algun otro lugar :paw_prints:. Jamás lo hubiese querido así, a cada una de las personas que voy conociendo las guardo en mi corazón, por muy cursi que suene, por que gracias a su amabilidad me hicieron mas fácil el camino, solo que no siempre suelo corresponder como debería, quedando seguramente como cretino con ellos.
 
-Desde ahorita trato de vislumbrar cual será mi destino final, ese lugar en donde pueda descansar, dejar de trabajar por necesidad y poder estar tranquilamente en proyectos que tenga por pasión. Poder enseñar a programar o matemáticas, tener mi espacio para jugar y trabajar. Algo cerca de la playa que sea un buen cliché :palm_tree:.
+Desde ahorita trato de vislumbrar cual será mi destino final, ese lugar en donde pueda descansar, dejar de trabajar por necesidad y poder estar tranquilamente en proyectos que tenga por pasión. Poder enseñar a programar o matemáticas, tener mi espacio para jugar y trabajar. Algo cerca de la playa que sea un buen cliché. :palm_tree:
 
 Mi sueño de momento es tener un hacker-space, que sirva para quien quiera aprender, que tenga algun tipo de cafeteria/tienda que sirva para mantenerla viva. :cat: :computer:
 
