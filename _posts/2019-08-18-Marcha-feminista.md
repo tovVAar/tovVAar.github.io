@@ -4,7 +4,7 @@ title: "Pensamientos a la reacción de internet a la marcha feminista"
 date: 2019-08-18
 ---
 
-*Originalmente posteado en facebook*
+*Originalmente posteado en mi facebook*
 
 Ay cabrón, neta que el observar a mi gente quejándose de las protestas, de verdad justifica el por que estamos así. Me sorprende quizás un poco más, que las mismas mujeres se quejen de las feministas, ver a alguien reprimido oponiéndose a ser libre, a la igualdad, como un judío apoyando a los alemanes en épocas de los Nazis.
 
