@@ -1,5 +1,8 @@
 name: TovVAar blog...
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+sass:
+    style: compressed
 plugins:
   - jemoji
+  - jekyll-coffeescript
