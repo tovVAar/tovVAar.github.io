@@ -3,10 +3,11 @@ layout: default
 title: Tovar's Blog
 ---
 	<h2>{{ page.title }}</h2>
-	<ul class="posts">
+	<div class="posts">
 	  {% for post in site.posts %}
-	    <li>
+	  	<div class="post-overlay"></div>
+	    <div class="post-entry">
             <span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-        </li>
+		</div>
 	  {% endfor %}
-	</ul>
+	</div>

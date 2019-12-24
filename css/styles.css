@@ -93,3 +93,18 @@ img {
     max-width: 100%;
     height: auto;
 }
+
+.post {
+	margin: 0px;
+	padding: 0px;
+}
+
+.post-overlay {
+	background: #72233a;
+}
+
+.post-entry {
+	text-align: center;
+	float: none;
+	margin: 0 0 10px 0;
+}
