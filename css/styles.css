@@ -94,6 +94,10 @@ img {
     height: auto;
 }
 
+.dummy {
+	visibility: hidden;
+}
+
 .post {
 	margin: 0px;
 	padding: 0px;
