@@ -6,10 +6,10 @@ title: Mi blog...
 	<div class="posts">
 	  {% for post in site.posts %}
 	  	<div class="post">
-			<div class="post-overlay"></div>
 			<div class="post-entry">
 				<span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
 			</div>
+			<div class="post-overlay"></div>
 		</div>
 	  {% endfor %}
 	</div>
