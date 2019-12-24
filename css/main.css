@@ -58,13 +58,13 @@ ul.posts li {
 	z-index: 10;
 	width: 100%;
 	height: 100%;
-	box-shadow: inset 10px 0px 10px -5px #D4D4CC, 
-                  inset -10px 0px 10px -5px #D4D4CC;
+	box-shadow: inset 0px 30px -10px 15px #D4D4CC, 
+                  inset 0px -30px -10px 15px #D4D4CC;
     position: absolute;
 }
 
 .post-entry {
-	z-index: 0;
+	z-index: 100;
 	text-align: center;
 	float: none;
 	margin: 0 0 10px 0;
